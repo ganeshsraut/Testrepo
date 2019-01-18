@@ -1,2 +1,4 @@
-#Adding new file to Testreo.
-### New File
+#ADDFILE
+### checking upper case for case sensitivity
+Upper case
+###
